@@ -1,0 +1,20 @@
+.rubik-mono-one-regular {
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bg-blue{
+    background-color: #0045B3 !important;
+}
+
+.img-conf{
+    background-size: cover;
+    height: 450px;
+    width: 500px;
+}
